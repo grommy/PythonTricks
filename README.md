@@ -1,0 +1,2 @@
+# PythonTricks
+useful code snippets
